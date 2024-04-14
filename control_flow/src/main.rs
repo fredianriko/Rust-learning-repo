@@ -84,9 +84,10 @@ fn main() {
 
     // for in range - reversed (rev)
 
-    let _a = [10, 20, 30, 40, 50];
+    // let _a = [10, 20, 30, 40, 50];
 
-    for element in (1..4).rev() {
-        println!("{element}");
-    }
+    // for element in (1..4).rev() {
+    //     println!("{element}");
+    // }
+
 }
